@@ -1,0 +1,7 @@
+Este ZIP contiene las historias de usuario:
+1. Registro PQRSD
+2. Reservar zona humeda
+
+Notas: Durante el desarrollo de las historias de usuario se incluyeron caracteristicas adicionales para que funcionara correctamente la interfaz, además, la historia 'Reservar zona humeda' se le hizo modificaciones en cuanto al numero de personas que se permite igresar, se propone ser desarrollado en el proximo sprint, debido a que en el primer sprint hubo que añadir funciones que hacen parte de su basico procesamiento de datos.
+
+En el ZIP se incluye los archivos SQL para ser ejecutados en SQL Server en el cual van  conectadas estas dos historias de usuario.
